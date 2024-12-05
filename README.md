@@ -47,7 +47,8 @@ This project aims to address the rising electricity costs and promote sustainabl
 
 ## System Architecture  
 
-![System Architecture Diagram](Images/overall system digram.png)
+![System Architecture Diagram](Images/overall%20system%20digram.png)
+
 
 The system integrates four key modules using the following flow:  
 1. **IoT Devices**: Collect real-time data from electricity meters, appliances, and solar panels.  
