@@ -47,7 +47,7 @@ This project aims to address the rising electricity costs and promote sustainabl
 
 ## System Architecture  
 
-![System Architecture Diagram](Images/overall%20system%20digram.png)
+![overall system digram](https://github.com/user-attachments/assets/a481e9a6-ad52-4ec3-b510-1a0967304b94)
 
 
 The system integrates four key modules using the following flow:  
@@ -63,7 +63,8 @@ The system integrates four key modules using the following flow:
 ### IoT Devices  
 - **ESP32 Microcontroller**: For capturing and transmitting meter readings.  
 - **LDR Sensor**: Detects LED blinks for electricity usage monitoring.  
-- **ACS712 Current Sensor**: Monitors electrical current in safety systems.  
+- **ACS712 Current Sensor**: Monitors electrical current in safety systems.
+- **230 Voltage Signal Capture Circuit**: Monitors circuit breaker offline or online.
 
 ### Backend  
 - **NumPy**: Numerical computation and array manipulation.  
