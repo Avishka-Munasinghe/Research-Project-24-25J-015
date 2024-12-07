@@ -46,7 +46,7 @@ This project aims to address the rising electricity costs and promote sustainabl
 
 ## System Architecture  
 
----![overall system digram](https://github.com/user-attachments/assets/a481e9a6-ad52-4ec3-b510-1a0967304b94)
+![overall system digram](https://github.com/user-attachments/assets/a481e9a6-ad52-4ec3-b510-1a0967304b94)
 
 
 The system integrates four key modules using the following flow:  
