@@ -43,6 +43,7 @@ This project aims to address the rising electricity costs and promote sustainabl
 - **User Recommendations**: Provides insights on reducing costs and optimizing energy usage based on appliance-specific data.  
 - **Alerts**: Notifies users of unusual consumption patterns or potential energy wastage.  
 
+---
 
 ## System Architecture  
 
