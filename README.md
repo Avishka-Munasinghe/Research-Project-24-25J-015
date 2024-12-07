@@ -63,7 +63,8 @@ The system integrates four key modules using the following flow:
 ### IoT Devices  
 - **ESP32 Microcontroller**: For capturing and transmitting meter readings.  
 - **LDR Sensor**: Detects LED blinks for electricity usage monitoring.  
-- **ACS712 Current Sensor**: Monitors electrical current in safety systems.  
+- **ACS712 Current Sensor**: Monitors electrical current in safety systems.
+- **230 Voltage Signal Capture Circuit**: Monitors circuit breaker offline or online.
 
 ### Backend  
 - **NumPy**: Numerical computation and array manipulation.  
